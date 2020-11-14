@@ -1,0 +1,25 @@
+table {
+	color: green;
+}
+
+.fiolet {
+	color: purple;
+	font: normal Arial, 'Helvetica CY', 'Nimbus Sans L', sans-serif;
+    
+}
+
+
+html tr {
+	border: 2px solid red; 
+	background-color: yellow;
+}
+
+.button {
+        position: relative;
+        display: inline-block;
+        text-decoration: none;
+        background-color: red;
+        color: white;
+        border-radius: 5rem;
+        overflow: hidden;
+        
